@@ -9,6 +9,7 @@ To setup :
 
 Note :
 There's 5 sec cooldown
-
+Customize the name word letter you want in word.txt
+Output file is Usernames.txt
 
 !!Do not remove the credit!!
